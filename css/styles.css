@@ -1,0 +1,41 @@
+
+
+#header-nav{
+	background-color:gray;
+}
+
+#main-content h1{
+	text-align:center;
+	box-sizing: border-box;
+}
+
+.tile{
+	background-color:gray;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border-width: 1px;
+	border-style: solid;
+}
+
+#navbar-brand div{
+	font-size: 50px;
+}
+
+#nav-list li span{
+	font-size: 2em;
+}
+
+div.tile-content{
+	margin:10px 15px 10px 15px;
+	padding-bottom:10px;
+}
+
+h3{
+	padding:10px 0px 0px 0px;
+}
+
+.tile-content a{
+	color:navy;
+	text-decoration: underline;
+}

@@ -4,6 +4,14 @@
 	background-color:gray;
 }
 
+#header-nav .navbar-header{
+	background-color:gray;
+}
+
+#header-nav #collapsable-nav{
+	background-color:navy;
+}
+
 #main-content h1{
 	text-align:center;
 	box-sizing: border-box;
@@ -23,7 +31,7 @@
 }
 
 #nav-list li span{
-	font-size: 2em;
+	font-size: 1em;
 }
 
 div.tile-content{
@@ -39,3 +47,9 @@ h3{
 	color:navy;
 	text-decoration: underline;
 }
+
+#nav-list li{
+	color: white;
+}
+
+
